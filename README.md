@@ -5,7 +5,8 @@
 
 # React App Scaffold
 
-> A functional React App Scaffold using JavaScript, Webpack and Babel! 
+> A functional React App Scaffold using TypeScript, Webpack and Babel! 🥸
+
 
 [![Author](https://img.shields.io/badge/author-jennifertakagi-ff9000?style=flat-square)](https://github.com/jennifertakagi)
 [![Languages](https://img.shields.io/github/languages/count/jennifertakagi/react-app-scaffold?color=%23ff9000&style=flat-square)](#)
@@ -52,7 +53,7 @@ Run the following command to start the application in a development environment:
 
 **Question:** What are the technologies used in this project?
 
-**Answer:** The technologies used in this project are [React JS](https://pt-br.reactjs.org/), [Webpack](https://webpack.js.org/) and [Babel](https://babeljs.io/).
+**Answer:** The technologies used in this project are [React JS](https://pt-br.reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [Webpack](https://webpack.js.org/) and [Babel](https://babeljs.io/).
 
 
 # :closed_book: License
